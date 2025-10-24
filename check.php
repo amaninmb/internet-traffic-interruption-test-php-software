@@ -2,9 +2,9 @@
 header('Content-Type: application/json; charset=utf-8');
 
 $hosts = [
-  'http://keyvanter.konyash.com',
-  'http://kan.konyash.com',
-  'http://speedtest.konyash.com'
+  'http://mehmetbagcivan.com',
+  'http://hatabul.com',
+  'http://turbokonya.com'
 ];
 
 function ping_http($url, $timeout_ms = 1500){
