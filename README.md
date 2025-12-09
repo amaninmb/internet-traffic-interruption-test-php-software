@@ -9,3 +9,8 @@ $hosts = [
 
 alanını kendi çekleyeceğiniz web sitelerinizi veya hostunuzu girebilirsiniz.
 sonra normal herhangi birinden index.php olarak giriş yapıp kontrol edin.
+Ekran Görüntüsü: 
+
+
+<img src="https://gcdnb.pbrd.co/images/pUbxb3RbBtoG.jpg" alt="Kopma Testi"/>
+
